@@ -1,7 +1,7 @@
 let amigos = [];
 let sorteoRealizado = false;
 
-// FUNCION EXTRA: Nombre reptido en la lista de amigos
+// Nombre reptido en la lista de amigos
 function nombreRepetido(nombre) {
     for (let i = 0; i < amigos.length; i++) {
         if (amigos[i].toLowerCase() === nombre.toLowerCase()) {
