@@ -1,5 +1,3 @@
-¡Perfecto! Con el HTML y el JavaScript completo, aquí tienes un `README.md` bien estructurado y profesional para tu proyecto de **Amigo Secreto** en GitHub:
-
 ---
 
 # Challenge Logica de programación: Sorteo de Amigo Secreto
